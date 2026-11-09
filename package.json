@@ -1,0 +1,11 @@
+{
+  "name": "rehearsal-book",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lyrics, do re mi notes, key keyboard and rehearsal recordings.",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}
